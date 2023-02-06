@@ -1,2 +1,2 @@
 # Phase-3-project
-Prediction of water wells in Tanzania
+##Classification of water wells in Tanzania

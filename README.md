@@ -4,6 +4,7 @@
 ## Introduction
 Access to clean water is a fundamental human need and a major challenge for many developing countries, including Tanzania. With a population of over 57 million, providing clean water to all citizens is a critical task. There are many water points already established in Tanzania, but some are in dire need of repair while others have completely failed.
 <br />
+<br />
 In order to address this challenge, we aim to build a classifier to predict the condition of water wells based on information such as the type of pump used and the installation date. This tool will be instrumental in helping NGOs locate wells that need repair and the government of Tanzania to identify patterns in non-functional wells, which can inform the construction of new wells. This is a ternary classification problem, but can be designed to be binary. With this project, we hope to improve access to clean water for the people of Tanzania and help address this critical need.
 
 ## Business Understanding

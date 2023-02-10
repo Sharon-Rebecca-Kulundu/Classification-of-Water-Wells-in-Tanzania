@@ -1,3 +1,3 @@
 # Phase-3-project
 ## Classification of water wells in Tanzania
-[image](https://drive.google.com/file/d/1PDLtPNRiXaRApg6V6FG9JSpnppglz8xn/view?usp=share_link)
+![waterwell](https://user-images.githubusercontent.com/117116395/218067424-85605530-08c5-4050-9635-a50682da47a1.jpg)

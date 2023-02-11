@@ -23,13 +23,13 @@ To measure the impact of the classifier on the access to clean water in Tanzania
 
 
 ## Data Preparation and modeling.
-*Assessing the Data:* The dataset had almost 60,000 instances with 39 features, mostly of nominal categorical type. It was a multiclass classification problem with three potential classes for each instance.
+* *Assessing the Data:* The dataset had almost 60,000 instances with 39 features, mostly of nominal categorical type. It was a multiclass classification problem with three potential classes for each instance.
 <br>
-*Data Cleaning:* The dataset had a notable number of missing values, which were filled in using the mean, median, or mode based on the situation.
+* *Data Cleaning:* The dataset had a notable number of missing values, which were filled in using the mean, median, or mode based on the situation.
 <br>
 *Exploring the Data/Selecting Features:* During the cleaning process, data  was examined and concurrent familiarization with the values was done. The relevant features were then selected. The features were categorized into Useless to the model, Missing Too Much Data, Redundant, Potentially Relevant, and Potentially Relevant but with high cardinality. After choosing the Potentially Relevant features, I further investigated their correlation to the classes.
 <br>
-*Making Predictions:* A baseline model was selected and various classifiers for modeling and the most promising ones fine-tuned. Recall and Accuracy were used as evaluation metrics. By utilizing a Random Forest Classifier, a 72% accuracy score was obtained and recall values of 0.75, 0.60, and 0.72 for the 'functional', 'functional needs repairs', and 'non-functional' categories. The 'functional needs repairs' category was the minority class, with a recall of 0.60.
+* *Making Predictions:* A baseline model was selected and various classifiers for modeling and the most promising ones fine-tuned. Recall and Accuracy were used as evaluation metrics. By utilizing a Random Forest Classifier, a 72% accuracy score was obtained and recall values of 0.75, 0.60, and 0.72 for the 'functional', 'functional needs repairs', and 'non-functional' categories. The 'functional needs repairs' category was the minority class, with a recall of 0.60.
 
 
 ## Conclusion.

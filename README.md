@@ -20,3 +20,16 @@ Conducting a thorough exploratory data analysis of the dataset to understand the
 To develop a classifier that accurately predicts the condition of water wells, using the collected data.
 To evaluate the performance of the classifier and make improvements as necessary.
 To measure the impact of the classifier on the access to clean water in Tanzania, and to make improvements as necessary to ensure ongoing success.
+
+## Conclusion.
+
+* By utilizing a Random Forest Classifier, I obtained a 72% accuracy score and recall values of 0.75, 0.60, and 0.72 for the three categories, 'functional', 'functional needs repairs', and 'non-functional'. The minority class was the category with a recall of 0.60.
+* The Ministry of Water could benefit significantly from this capability to predict water point statuses since it would enable them to prioritize site visits.
+
+## Recommendations
+
+* I recommend the Ministry of Water utilize the predictive model to develop a strategy for prioritizing waterpoint site visits. The model recommends that waterpoints predicted to be 'functional needs repairs' and 'non functional' be given priority status, while waterpoints predicted to be 'functional' be inspected on a routine basis and to check for any misclassified waterpoints.
+
+* By creating a more effective maintenance program, the Ministry can reduce costs and allocate those savings towards expanding the water infrastructure. Additionally, the accuracy of the model and the Ministry's improved maintenance program can be used to showcase the government's progress and attract international aid.
+
+

@@ -35,7 +35,7 @@ To measure the impact of the classifier on the access to clean water in Tanzania
 ## Conclusion.
 
 * By utilizing a Random Forest Classifier, I obtained a 72% accuracy score and recall values of 0.75, 0.60, and 0.72 for the three categories, 'functional', 'functional needs repairs', and 'non-functional'. The minority class was the category with a recall of 0.60.
-* The Ministry of Water could benefit significantly from this capability to predict water point statuses since it would enable them to prioritize site visits.
+* The Ministry of Water could benefit significantly from this capability to predict water point statuses with a 72% accuracy since it would enable them to prioritize site visits.
 
 ## Recommendations
 
